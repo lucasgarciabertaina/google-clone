@@ -1,0 +1,11 @@
+<svg width="125" height="125" viewBox="0 0 125 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="15" cy="15" r="15" fill="white"/>
+<ellipse cx="62.5" cy="15" rx="15.5" ry="15" fill="white"/>
+<circle cx="110" cy="15" r="15" fill="white"/>
+<circle cx="15" cy="60" r="15" fill="white"/>
+<path d="M78 60C78 68.2843 71.0604 75 62.5 75C53.9396 75 47 68.2843 47 60C47 51.7157 53.9396 45 62.5 45C71.0604 45 78 51.7157 78 60Z" fill="white"/>
+<circle cx="110" cy="60" r="15" fill="white"/>
+<circle cx="15" cy="105" r="15" fill="white"/>
+<path d="M78 105C78 113.284 71.0604 120 62.5 120C53.9396 120 47 113.284 47 105C47 96.7157 53.9396 90 62.5 90C71.0604 90 78 96.7157 78 105Z" fill="white"/>
+<circle cx="110" cy="105" r="15" fill="white"/>
+</svg>
